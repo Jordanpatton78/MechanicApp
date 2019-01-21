@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vehicle Diagnosis App</string>
+    <string name="transResponse">Your issue is likely the transmission.</string>
+</resources>
