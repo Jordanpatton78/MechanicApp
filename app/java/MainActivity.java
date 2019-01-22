@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Button transButton2=findViewById(R.id.transButton2);
         Button transButton3=findViewById(R.id.transButton3);
         Button transButton4=findViewById(R.id.transButton4);
-        final TextView transText1 = findViewById(R.id.transText1);
+        final TextView transText1=findViewById(R.id.transText1);
         final TextView transText2=findViewById(R.id.transText2);
         final TextView transText3=findViewById(R.id.transText3);
         final TextView transText4=findViewById(R.id.transText4);
