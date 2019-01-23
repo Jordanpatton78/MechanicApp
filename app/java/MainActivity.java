@@ -23,13 +23,13 @@ public class MainActivity extends AppCompatActivity {
 
         transButton1.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
             transText1.setText(transResponse+" You probably have low transmission fluid, or your shift cables or clutch linkage need adjusting.");
             }
         });
         transButton2.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
                 transText2.setText(transResponse+" Your transmission fluid is low, leaking, or dirty.");
             }
                                         });
